@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "Useful Unity Fuctions"
+subtitle:   "Do it, do the math"
+date:       2018-02-16
+author:     "Robin"
+header-img: "img/in-post/post-bg-2018-02-16-math.jpg"
+tags:
+    - unity
+    - script
+---
+
+here are some interesting and useful function in Unity I found.
+
+平日里用到的有趣或有用的unity相关小知识。
+
+1. Unity的输入范围是[-1,1]
+2. 选中摄像机 shift+control+F，可以把摄像机位置设定为editor里面当前视角的位置
+3. 按住alt键再点多层级游戏物体会一次展开所有层
+
+
+未完待续
