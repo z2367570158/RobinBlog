@@ -2,7 +2,7 @@
 layout:     post
 title:      "Welcome to the woods of Robin bird"
 subtitle:   " \"Hello World\""
-date:       2018-02-15 03:20:13
+date:       2018-02-15
 author:     "Robin 升升"
 header-img: "img/in-post/post-bg-2018-02-15-HelloWorld.jpg"
 tags:

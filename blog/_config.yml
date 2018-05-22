@@ -11,12 +11,11 @@ url: "ssylva.com"              # your host, for absolute URL
 
 
 # SNS settings
-RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
-github_username:    z2367570158
+email_address:  robinbyzhou@gmail.com
+linkedin_username:  robinbygzhou
+github_username:  z2367570158
 twitter_username:  SS_Boyang
-#facebook_username:  huxpro
+gcore_username:  users/36403
 
 
 
@@ -72,17 +71,29 @@ featured-condition-size: 0              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
+        title: "Jason Lin",
+        href: "http://www.jasonlin.website/"
+    },
+    {
         title: "Hux Blog",
         href: "http://huangxuan.me"
-    }
+    },
     {
         title: "Iris Qin",
         href: "https://www.irisqin.com/"
-    }
+    },
     {
         title: "Nathan Li",
-        href: "incrediblega.me"
-    }
+        href: "http://incrediblega.me"
+    },
+    {
+        title: "Dan",
+        href: "https://www.dangames.net/"
+    },
+    {
+        title: "Sam Liao",
+        href: "https://samliaogames.com/"
+    },
     {
         title: "Candycat",
         href: "http://candycat1992.github.io/"
