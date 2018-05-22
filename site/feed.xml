@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robin Blog</title>
+    <description></description>
+    <link>ssylva.com/</link>
+    <atom:link href="ssylva.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 15 Feb 2018 13:56:05 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2018 13:56:05 +0000</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Welcome to the woods of Robin bird</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“Yeah It’s on. ”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p id=&quot;build&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;说点什么吧&quot;&gt;说点什么吧&lt;/h2&gt;
+
+&lt;p&gt;美国西部时间二零一八年二月十五日凌晨三点二十分，北京时间戊戌年腊月三十，除夕，耳机里面是下村阳子在FF15里的Valse di Fantastica。
+费了很多功夫，终于还是建了个人网站，即满足了作品集portfolio展示的需要，再来也是有一个可以像现在一样，半夜安安静静写点东西的地方。&lt;/p&gt;
+
+&lt;p&gt;2017年，勉勉强强用阿里云做了个wordpress的个人博客，写了没几篇东西，因为wordpress这种泛用性强的工具对我这种原教旨热衷者实在还是不够有趣，随后就丢弃了。
+2018年，Robin，升升，周博洋，终于有个地方能好好写写字了。&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Thu, 15 Feb 2018 03:20:13 +0000</pubDate>
+        <link>ssylva.com/2018/02/15/helloworld/</link>
+        <guid isPermaLink="true">ssylva.com/2018/02/15/helloworld/</guid>
+        
+        <category>Life</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
