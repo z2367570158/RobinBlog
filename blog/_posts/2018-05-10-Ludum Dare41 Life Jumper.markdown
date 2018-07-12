@@ -51,7 +51,7 @@ Then I start to build the tool for level design, the strcture of platform, the r
 
 <br>
 ## Second Day
-Started with the level design which this time is really hard for me since player speed is dynamic. I can't get the stats of player which means I have to playtest every platform to make it what I want to express my idea.
+Started with the level design which this time is really hard for me since player speed is dynamic. I can't get the stats of player which means I have to playtest every platform to make it what I want in order to express my idea.
 
 <img src="http://ssylva.com/img/in-post/LudumDare41Level.gif" width="800" height="800" />
 
