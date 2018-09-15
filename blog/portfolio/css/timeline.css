@@ -35,6 +35,7 @@ body, html {
 	font-style: normal;
 } /* Made with http://icomoon.io/ */
 
+
 .cbp_tmtimeline {
 	padding: 0;
 	list-style: none;
@@ -44,6 +45,13 @@ body, html {
 	margin-top: -100px;
 }
 
+.cbp_tmtimeline a{
+	color:#0085a1;
+}
+.cbp_tmtimeline a:hover {
+	/*color: #000;*/
+	/*text-decoration: none;*/
+}
 .cbp_tmtimeline > li {
 	position: relative;
 	box-sizing: border-box;
@@ -203,6 +211,16 @@ header p{
 	letter-spacing: 1px;
 	font-weight: 300;
 	margin: 1.7em;
+}
+
+header a{
+	color: #d8d8d8;
+	text-decoration: underline;
+	font-size: 30px;
+    font-weight: 700;
+    margin-top: 26px;
+    margin-bottom: 10px;
+    line-height: 1;
 }
 header img{
 	width: 175px;

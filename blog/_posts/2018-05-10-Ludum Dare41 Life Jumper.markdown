@@ -59,7 +59,6 @@ The original idea is start with 15-year old and end with 70-year old, each year 
 
 I post the game pretty early and started to play other's work. The original idea is to play other's game and make them play mine, but Bang, the magic games, I started to feel that every game is soooo interesting and creative, couldn't stop playing them!!!
 
-<img src="http://ssylva.com/img/in-post/LudumDare41finsh.jpg" width="800" height="800" />
 
 <br>
 # Tools
